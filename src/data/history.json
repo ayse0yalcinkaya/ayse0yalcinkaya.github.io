@@ -1,0 +1,31 @@
+[
+    {
+      "role": "Frontend Developer",
+      "organisation": "Shark Aviation",
+      "startDate": "Feb, 2024",
+      "endDate": "May, 2024",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/shark_logo.png"
+    },
+    {
+      "role": "Full Stack Developer",
+      "organisation": " B.Y. Schneidwerkzeuge e.K.",
+      "startDate": "July, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/by_logo.png"
+    },
+    {
+      "role": "Mobile Developer",
+      "organisation": "FDN Soft",
+      "startDate": "Aug, 2022",
+      "endDate": "Sep, 2022",
+      "experiences": [
+        "Worked on component library",
+        "Helped create UI components"
+      ],
+      "imageSrc": "history/fdnsoft_logo.png"
+    }
+    
+    
+  ]
